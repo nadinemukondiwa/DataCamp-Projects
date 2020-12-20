@@ -3,7 +3,7 @@
 ## Python Projects
 
 | Project name        | Description         |
-| ------------- |:-------------:|
+| ------------- |:-------------|
 | A New Era of Data Analysis in Baseball      | Comparing the  New York Yankees sluggers Aaron Judge and Giancarlo Stanton |
 | A Visual History of Nobel Prize Winners     | Analyzing a dataset of Nobel Laureates.       |
 | Analyzing TV Data | Using data manipulation and visualization to analyze The Super Bowl and hit sitcom The Office!      |
