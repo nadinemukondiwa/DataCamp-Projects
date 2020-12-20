@@ -10,11 +10,13 @@
 | Exploring the Bitcoin Cryptocurrency Market | Analyzing market capitalization of Bitcoin and other cryptocurrencies      |
 | Exploring the History of Lego | Python data manipulation to explore different aspects of Lego's history!      |
 | Generating Keywords for Google Ads | Generating keywords for a search engine marketing campaign using Python.      |
-| Exploring the Bitcoin Cryptocurrency Market | are neat      |
+| The Android App Market on Google Play | Loading, cleaning, and visualizing scraped Google Play Store data to gain insights into the Android app market      |
+| The GitHub History of the Scala Language | Analyzing the development history in Git and GitHub.      |
+| Who Is Drunk and When in Ames, Iowa? | Using data manipulation on breath alcohol test data from Ames, Iowa, USA.      |
 
 ## SQL Projects
 
 | Project name        | Description         |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| ------------- |:-------------:|
+| Analyze International Debt Statistics      | Write SQL queries to answer interesting questions about international debt using data from The World Bank. |
 
