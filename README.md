@@ -1,5 +1,5 @@
 # DataCamp Projects
-
+This repository includes guided projects from DataCamp that I have completed. 
 ## Python Projects
 
 | Project name        | Description         |
